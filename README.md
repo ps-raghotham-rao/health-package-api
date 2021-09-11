@@ -2,6 +2,8 @@
 A starter kit/ backend api for small clinics and medical shops. 
 Which include:
 
+
+
 # Doctor Appointment Booking API:
 
 Patients can book their doctor appointment and tell general details about their query along with the appointment date.
@@ -28,6 +30,9 @@ How the data is stored in the database.
 
 
 
+
+
+
 # Ambulance Tracker:
 In many countries, nowadays there are high shortage of ambulances in certain areas as the Covid 19 Cases are increasing.
 So I have created an API which tracks all the ambulance details like vehicle id, locality or area it usually travels, trip count, distress count of the driver and more.
@@ -39,6 +44,9 @@ https://g0gr6r.deta.dev/docs
 ![image](https://user-images.githubusercontent.com/73742827/132957063-68035266-bcb9-425d-86f9-90ba55a49532.png)
 
 ![image](https://user-images.githubusercontent.com/73742827/132957102-c00900ae-c3cc-4c54-84e8-3a6c637501cb.png)
+
+
+
 
 
 
