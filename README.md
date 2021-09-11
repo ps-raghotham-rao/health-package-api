@@ -22,15 +22,19 @@ https://m5n7k3.deta.dev/docs
  <br />
 
 ![image](https://user-images.githubusercontent.com/73742827/132956816-a6e06c4e-df03-44a2-bc34-a761811b4360.png)
+ <br />
 API usage.
  <br />
 
 ![image](https://user-images.githubusercontent.com/73742827/132956827-cf835ee4-18e1-446b-8754-3c565437e912.png)
+ <br />
 Email to the receptionist/doctor when a contact form is filled and sent by the patient.
  <br />
 
 ![image](https://user-images.githubusercontent.com/73742827/132956908-b246defa-86a5-45e5-ac0e-e7cf683fe361.png)
+ <br />
 How the data is stored in the database.
+ <br />
 
  <br />
  <br />
