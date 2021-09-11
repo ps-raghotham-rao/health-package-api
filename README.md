@@ -1,5 +1,5 @@
 # Health Package API
-A starter kit/ backend api for small clinics and medical shops. 
+A starter kit/ backend api for small clinics and hospitals. 
 Which include:
  <br />
  <br />
