@@ -32,8 +32,6 @@ Email to the receptionist/doctor when a contact form is filled and sent by the p
 ![image](https://user-images.githubusercontent.com/73742827/132956908-b246defa-86a5-45e5-ac0e-e7cf683fe361.png)
 How the data is stored in the database.
 
-
-
  <br />
  <br />
 
@@ -52,10 +50,8 @@ https://g0gr6r.deta.dev/docs
 ![image](https://user-images.githubusercontent.com/73742827/132957102-c00900ae-c3cc-4c54-84e8-3a6c637501cb.png)
 
 
-
  <br />
  <br />
-
 
 # Tester
 This a question and answer API. Where patients can be pre-tested with a set of questions so that the doctor/receptionist can get to know a summary about the patient.
@@ -75,7 +71,7 @@ https://yfdyp3.deta.dev/docs
  <br />
  <br />
 
-Improvements to the API that may be done in the future:
+Improvements to the API that can be done in the future:
 Due to shortage of time could not build the front end.
 Also can add constraints like giving if time slots are available or not for that date to be added.
 Also sending medical report/ other files during appointment.
