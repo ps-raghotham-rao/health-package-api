@@ -48,6 +48,9 @@ Then later they can be further categorized and tested appropriately.
 
 This is very useful during this pandemic times where remote assistance is very much needed and the doctor appoitnments are rising in huge numbers.
 
+https://yfdyp3.deta.dev/docs
+
+
 ![image](https://user-images.githubusercontent.com/73742827/132957323-434a9c6d-4365-464f-94f8-c12a7cd8d15a.png)
 
 ![image](https://user-images.githubusercontent.com/73742827/132957340-6081ee96-78a2-460f-9863-a3810ebcf69d.png)
